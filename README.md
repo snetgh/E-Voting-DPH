@@ -1,2 +1,8 @@
 # E-Voting-DPH
-An E-Voting System for organization
+An Electronic Voting System for schools or organization
+
+Developers
+
+- Peter Donkor -> Full Stack Developer
+
+- Stephen Fosu -> Network Engineer
